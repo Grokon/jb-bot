@@ -16,3 +16,4 @@
 
 .trunk/
 .env*
+.vscode/
